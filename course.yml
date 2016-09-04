@@ -1,7 +1,7 @@
-title            : datacamp r4log
+title            : R for logistics
 instructors      :
- - postlogist@gmail.com
-description      : This is an automatically generated demo course which will help you on your way to create an awesome DataCamp course.
-university       : DataCamp
+ Gleb Zakhodyakin - postlogist@gmail.com
+description      : This is a (beta) course for teaching data analysis in R to logistics and supply chain management students.
+university       : Higher School of Economics
 difficulty_level : 2
-time_needed      : 1 hour
+time_needed      : 80 hour
